@@ -2,6 +2,18 @@
 # TODO: Devide in other files for clean code
 # TODO: Swap 0 for O
 
+print("Welcome to Tic Tac Toe, instructions are as follows:")
+print("1) AI goes first following your counter by entering a number in one of these positions:")
+print("   1|2|3")
+print("   -+-+-")
+print("   4|5|6")
+print("   -+-+-")
+print("   7|8|9")
+print("2) Once you have 3 entries next to each other in whatever direction before your opponent, you win!")
+print()
+print("Let's begin!")
+print()
+
 board = { 
     1: ' ', 2: ' ', 3: ' ',
     4: ' ', 5: ' ', 6: ' ',
