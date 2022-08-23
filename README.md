@@ -1,2 +1,2 @@
 # TicTacToe
-Tic Tac Toe game with a unbeatable AI using the Minimax algorithm
+A Python Tic Tac Toe game with an unbeatable AI using the Minimax algorithm.
