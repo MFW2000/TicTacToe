@@ -63,7 +63,7 @@ def checkWin():
         return False
 
 def insertLetter(letter, position):
-    if (spaceIsFree(position)):
+    if spaceIsFree(position):
         board[position] = letter
         printBoard(board)
 
